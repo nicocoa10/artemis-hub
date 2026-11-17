@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <header className='flex'>
-        <img src={Logo} alt="Artemis logo"  />
+        <img src={Logo} alt="Artemis logo" className="h-50" />
       </header>
     </div>
   );
