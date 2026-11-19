@@ -1,2 +1,1 @@
-# reddit_artemis
-
+![Artemis Hub logo](client/src/assets/logo.png)
