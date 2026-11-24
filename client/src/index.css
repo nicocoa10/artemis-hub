@@ -2,7 +2,12 @@
 
 @theme {
   --color-reddit-dark: #030303;
-  --color-reddit-dark-brighter: #272728;
+  --color-reddit-dark-brighter: #1a1a1a;
+  --color-reddit-dark-brightest: #272728;
   --color-reddit-border: #343536;
+  --color-reddit-text: rgb(215,218,220);
+  --color-reddit-text-darker: #818384;
+
+
 
 }
